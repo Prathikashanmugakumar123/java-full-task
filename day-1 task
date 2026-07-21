@@ -1,0 +1,10 @@
+operators
+1.	Swapping using bitwise operators without using 3 rd variable
+2.	To find last 2 digit of the given number
+3.	To find middle digit of the number
+4.	Write a program to take a five-digit number as input, square the middle digit and print number and the square.
+Input Data:
+Input an integer: 54623
+Expected Output
+Square of 6 is: 36
+5.	To find last digit of the number
